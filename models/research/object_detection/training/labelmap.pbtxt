@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'mobile'
+}
+
+item {
+  id: 2
+  name: 'comb'
+}
+
+item {
+  id: 3
+  name: 'nailcutter'
+}
+
+item {
+  id: 4
+  name: 'spray'
+}
+
+item {
+  id: 5
+  name: 'remote'
+}
+
+item {
+  id: 6
+  name: 'book'
+}
